@@ -78,15 +78,17 @@ ul {
 
 .address-list:hover
 .address-list:focus{
-    text-decoration: none;
     color: #404bbf;
 }
 
 .pay-attention{
     background: #2e2f42;
+}
+
+.h1_attention{
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -94,6 +96,19 @@ ul {
 
 .attention-button{
     background: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.attention-button:hover,
+.attention-button:focus{
+    background-color: #404BBF;
+
 }
 
 .Team>ul>li{
