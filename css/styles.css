@@ -62,11 +62,11 @@ ul {
     list-style-type: none;
 }
 
-address{
+.address{
     font-style: normal;
 }
 
-.address {
+.address-list {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -75,9 +75,9 @@ address{
     text-decoration: none;
 }
 
-address a,
-address a:hover
-address a:focus{
+
+.address-list:hover
+.address-list:focus{
     text-decoration: none;
     color: #404bbf;
 }
