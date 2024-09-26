@@ -122,26 +122,30 @@ ul {
 
 
 
-footer {
+.footer {
     background: #2e2f42;
 }
 
-footer p {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #f4f4fd;
-}
-
-footer a {
+.footer a {
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.16667;
     letter-spacing: 0.03em;
-    color: #f4f4fd;
+    color: #4d5ae5;
     text-decoration: none;
 
+}
+
+.studio_color_footer{
+    color: #f4f4fd
+}
+
+.par-footer{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
