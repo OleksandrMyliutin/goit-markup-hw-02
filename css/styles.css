@@ -1,6 +1,6 @@
 body{
     font-family: "Roboto",sans-serif;
-    color: #2e2f42;
+    color: #434455;
     background-color: #fff;
 }
 
@@ -94,14 +94,8 @@ address a:focus{
     background: #4d5ae5;
 }
 
-.Team>ul>li>img{
-    width: 264px;
-    height: 260px;
-}
-
 .Team>ul>li{
-    width: 264px;
-    height: 380px;
+
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
     text-align: center;
@@ -111,23 +105,11 @@ address a:focus{
     background: #f4f4fd;
 }
 
-.Portfolio>ul>li>img{
-    width: 360px;
-    height: 300px;
-}
-
-.Portfolio>ul>li {
-    width: 360px;
-    height: 420px;
-}
-
 footer {
     background: #2e2f42;
 }
 
 footer p {
-    font-weight: 400;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
@@ -136,8 +118,6 @@ footer p {
 footer a {
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
-    font-size: 18px;
     line-height: 1.16667;
     letter-spacing: 0.03em;
     color: #f4f4fd;
