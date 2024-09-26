@@ -62,21 +62,24 @@ ul {
     list-style-type: none;
 }
 
-address a,
-address a:hover
-address a:focus{
-    text-decoration: none;
-    color: #404bbf;
+address{
+    font-style: normal;
 }
 
-.address{
+.address {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     text-decoration: none;
-    font-style: normal;
+}
+
+address a,
+address a:hover
+address a:focus{
+    text-decoration: none;
+    color: #404bbf;
 }
 
 .pay-attention{
