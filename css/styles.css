@@ -76,7 +76,7 @@ ul {
 }
 
 
-.address-list:hover
+.address-list:hover,
 .address-list:focus{
     color: #404bbf;
 }
